@@ -1,4 +1,4 @@
-# djang-cas-sample
+# django-cas-sample
 Client and Server example for Centralised Authentication Server.
 Sample database is already present with cas-client and cas-server
 # Setup
