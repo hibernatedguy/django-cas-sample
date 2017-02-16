@@ -1,8 +1,8 @@
 # django-cas-sample
 Client and Server sample application for Centralised Authentication Server.
 
-**client-app** uses [django-cas-ng]('https://github.com/mingchen/django-cas-ng') 
-**server-app** uses in [django-mama-cas]('https://github.com/jbittel/django-mama-cas') 
+**client-app** uses [django-cas-ng]('https://github.com/mingchen/django-cas-ng') & 
+**server-app** uses [django-mama-cas]('https://github.com/jbittel/django-mama-cas') 
 
 **Sample database is already present with cas-client and cas-server
 
