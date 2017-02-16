@@ -19,12 +19,13 @@ python manage.py migrate
 python manager.py runserver 9090
 ```
 #### Sample accounts for cas-server
+```
 username : sunit
 password : 7uiop098
 
 username : ashish
 password : 7uiop098
-
+```
 
 # steps to test client and server app
 go to http://localhost:8080
