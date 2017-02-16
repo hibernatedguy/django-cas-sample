@@ -1,6 +1,11 @@
 # django-cas-sample
-Client and Server example for Centralised Authentication Server.
-Sample database is already present with cas-client and cas-server
+Client and Server sample application for Centralised Authentication Server.
+
+**client-app** uses [django-cas-ng]('https://github.com/mingchen/django-cas-ng') 
+**server-app** uses in [django-mama-cas]('https://github.com/jbittel/django-mama-cas') 
+
+**Sample database is already present with cas-client and cas-server
+
 # Setup
 ### install requirements file
 ```pip install requirements.txt```
@@ -18,7 +23,7 @@ cd cas_server/
 python manage.py migrate
 python manager.py runserver 9090
 ```
-#### Sample accounts for cas-server
+### Sample accounts for cas-server
 ```
 username : sunit
 password : 7uiop098
