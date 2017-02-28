@@ -14,14 +14,14 @@ Client and Server sample application for Centralised Authentication Server.
 ```
 cd cas_client/
 python manage.py migrate
-python manager.py runserver 8080
+python manage.py runserver 8080
 ```
 
 ### make cas-server app running
 ```
 cd cas_server/
 python manage.py migrate
-python manager.py runserver 9090
+python manage.py runserver 9090
 ```
 ### Sample accounts for cas-server
 ```
